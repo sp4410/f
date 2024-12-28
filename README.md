@@ -6,7 +6,7 @@ Place `model.pt` and `model-SGD-0.01lr-50epoch.pt` into the `model&img` folder.
 
 Visit the dataset website:
 
- [Chinese Traffic Sign Database](model&img/desktop.png)
+ [Chinese Traffic Sign Database]((http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html))
 
 
 
@@ -40,7 +40,7 @@ Download the compressed file `tsrd-test.zip` and move all the images and the fil
 
 Download `bar pic.py`, `C&G&chart.py`, `CPU.py`, `dataload.py`, `diagram.py`, `distribution.py`, `main.py`, `README.md`, `resnet.py`, `test.py`, `train.py`, `trainfast.py`, `model.ckpt`, and `requirement.txt` to a folder on the desktop named `f`.
 
-![image-20241226194940286](C:\Users\ThinkPad\Desktop\f\model&img\desktop.png)
+![image-20241226194940286](model&img/desktop.png)
 
 ## Repository Structure
 
