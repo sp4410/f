@@ -158,7 +158,7 @@ Input：python main.py --test-img --image-path "./Test/035_1_0023_1_j.png"
 
 Output Results of the SGD Optimizer
 
-![image-20241225205448827](C:\Users\ThinkPad\Desktop\f\model&img\image-20241225205448827.png)
+![image-20241225205448827](model&img/image-20241225205448827.png)
 
 The SGD optimizer demonstrates efficient convergence and high accuracy in traffic sign classification tasks. After around 20 epochs, accuracy, recall, precision, and F1 scores approach 1.0, with the loss value stabilizing, making it suitable for high-precision requirements. Its optimization path is stable, offering strong generalization capabilities to adapt to dynamic traffic scenarios. Additionally, its low memory consumption improves GPU resource utilization, making it ideal for real-time traffic sign classification tasks based on the ResNet model.
 
