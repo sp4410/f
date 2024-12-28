@@ -6,7 +6,8 @@ Place `model.pt` and `model-SGD-0.01lr-50epoch.pt` into the `model&img` folder.
 
 Visit the dataset website:
 
- [Chinese Traffic Sign Database]((http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html))
+ [Chinese Traffic Sign Database]
+ http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
 
 
