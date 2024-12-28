@@ -130,7 +130,7 @@ python main.py --test-img --image-path "./Test/000_0005_j.png"
 
 CPU VS GPU
 
-![image-20241225221209895](C:\Users\ThinkPad\Desktop\f\model&img\CPU vs GPU.png)
+![image-20241225221209895](model&img/CPU vs GPU.png)
 
 This result highlights the advantages of GPU parameters in data processing tasks, particularly in accelerating complex data analysis and machine learning workflows. By comparing the processing time, performance metrics, and visualization results between CPU and GPU, we can clearly observe the efficiency improvements and technical superiority brought by GPUs.
 
@@ -140,7 +140,7 @@ Use the GPU cluster to predict speed limit signs.
 
 Input：python main.py --test-img --image-path "./Test/000_0005_j.png"
 
-![image-20241227160538381](C:\Users\ThinkPad\Desktop\f\model&img\image-20241227160538381.png)
+![image-20241227160538381](model&img/image-20241227160538381.png)
 
 
 
@@ -150,7 +150,7 @@ Use the GPU cluster to predict and focus on pedestrian signs.
 
 Input：python main.py --test-img --image-path "./Test/035_1_0023_1_j.png"
 
-![image-20241227160606338](C:\Users\ThinkPad\Desktop\f\model&img\image-20241227160606338.png)
+![image-20241227160606338](model&img/image-20241227160606338.png)
 
 
 
